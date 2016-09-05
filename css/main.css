@@ -2471,3 +2471,6 @@ a.more-link:hover,
   width: 90px;
   margin: 0 auto;
 }
+.service .vacio {
+	height: 43px;
+}
