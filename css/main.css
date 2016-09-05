@@ -2450,3 +2450,24 @@ a.more-link:hover,
 .event h3:before {
 	border-color: #8ACB82;
 	}
+
+
+
+/* links ir a...*/
+.service p a{
+	float: left;
+}
+
+/* */
+.service p {
+  margin-left: 0;
+}
+.service h4 {
+	margin-left: 0;
+}
+.service i, .service img {
+  display: block;
+  float: none;
+  width: 90px;
+  margin: 0 auto;
+}
