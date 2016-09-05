@@ -2461,6 +2461,7 @@ a.more-link:hover,
 /* */
 .service p {
   margin-left: 0;
+  text-align: left;
 }
 .service h4 {
 	margin-left: 0;
