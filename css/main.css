@@ -2475,3 +2475,9 @@ a.more-link:hover,
 .service .vacio {
 	height: 43px;
 }
+.credits {
+	position: absolute;
+	bottom: 12px;
+	right: 12px;
+	font-size: .8em;
+}
