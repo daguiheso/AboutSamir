@@ -1,4 +1,4 @@
- 
+
 /* --------------------------------------------
 	
 	main.css : main style file
@@ -2480,4 +2480,21 @@ a.more-link:hover,
 	bottom: 12px;
 	right: 12px;
 	font-size: .8em;
+}
+
+.mas {
+  position: absolute;
+  top: 2%;
+  left: 4%;
+  text-align: center;
+  line-height: 16px;
+  font-size: 1.1em;
+}
+.mas .text {
+  display: inline-block;
+  vertical-align: text-top;
+  margin-left: 10px;
+}
+.mas i {
+  font-size: 1.4em;
 }
